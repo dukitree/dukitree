@@ -3,6 +3,11 @@ layout: post
 title: You're up and running!
 ---
 
+## Testing github Blog~~!
+
+** 한글도 잘 되나??? **
+
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
