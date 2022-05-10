@@ -7,6 +7,8 @@ title: You're up and running!
 
 ** 한글도 잘 되나??? **
 
+오랜만에 포스트 해보려고 테스팅을 다시 시도하는 중이다. 
+뭔가 꾸준함이 수반되지 않으면 제자리에 맴돌기만 하는 법이다.
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
